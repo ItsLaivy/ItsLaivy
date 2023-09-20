@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslaivy&layout=compact&theme=dark" alt="Linguagens mais Usadas">
 </div>
 
-<h2 align="center">Atividade Semanal 📊</h2>
+<h2 align="center">Atividade desde 18/09 📊</h2>
 
 <div align="center">
   <a href="https://wakatime.com/@itslaivy">
@@ -35,7 +35,6 @@
   </a>
 
   <p align="center">
-    Visualize meu tempo de codificação semanal, linguagens mais usadas e projetos em que estou trabalhando.
-    <br>Conheça minha produtividade e padrões de codificação para criar software de alta qualidade.
+    Criei uma conta no WakaTime para resolver expôr o meu tempo na programação todos os dias, visualize todo o meu percurso como programador nos gráficos acima
   </p>
 </div>
