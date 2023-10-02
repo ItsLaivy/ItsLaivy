@@ -35,6 +35,7 @@
   </a>
 
   <p align="center">
-    Criei uma conta no WakaTime para resolver expôr o meu tempo na programação todos os dias, visualize todo o meu percurso como programador nos gráficos acima
+    Criei uma conta no WakaTime para expôr o meu tempo na programação todos os dias, visualize todo o meu percurso como programador nos gráficos acima.
+    Lembre-se de que os dados estatísticos se iniciaram no dia 18/09/2023.
   </p>
 </div>
