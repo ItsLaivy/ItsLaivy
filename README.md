@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@itslaivy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itslaivy&layout=compact&theme=dark" alt="Atividade Semanal">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laivy&layout=compact&theme=dark" alt="Atividade Semanal">
   </a>
 
   <p align="center">
